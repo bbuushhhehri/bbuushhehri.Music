@@ -1,0 +1,6 @@
+owner=493635250904236033
+prefix=bu
+game=Test
+stayinchannel=true
+songinstatus=false
+token=NTYyMjEwMjAyNzUwMDI1NzI4.XKHdSQ.CaA8uDKdTKuOyGuf0SS-4T64gvI
